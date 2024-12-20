@@ -1,37 +1,12 @@
 
-Target Shooter Game
+# Target Shooter Game
 
 Welcome to Target Shooter Game! This is a simple Python game developed using Pygame where you aim and shoot at moving targets. The game features custom sound effects and images, with full-screen support and crosshair controls.
 
-Table of Contents
 
-Features
 
-Requirements
 
-Installation
-
-Running the Game
-
-Creating an Executable
-
-Controls
-
-Credits
-
-Features
-
-Full-screen mode with dynamic screen size support.
-
-Moving targets with custom images.
-
-Sound effects on successful hits.
-
-Displays real-time score and FPS.
-
-Crosshair controls for aiming.
-
-Requirements
+# Requirements
 
 Python 3.x
 
@@ -47,7 +22,7 @@ Install Pygame:
 
 pip install pygame
 
-Download Project Files:
+# Download Project Files:
 
 Ensure the following files are in your project folder:
 
@@ -57,7 +32,7 @@ unn.mp3 (hit sound effect)
 
 unnayan.png (target image)
 
-Running the Game
+# Running the Game
 
 Navigate to the project folder in your terminal and run:
 
@@ -67,7 +42,7 @@ The game will launch in full-screen mode.
 
 Creating an Executable
 
-To create an executable using auto-py-to-exe:
+# To create an executable using auto-py-to-exe:
 
 Install auto-py-to-exe:
 
