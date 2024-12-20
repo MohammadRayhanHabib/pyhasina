@@ -1,6 +1,6 @@
-# pyhasina
 
-Target Shooter Game
+
+#Target Shooter Game
 
 Welcome to Target Shooter Game! This is a simple Python game developed using Pygame where you aim and shoot at moving targets. The game features custom sound effects and images, with full-screen support and crosshair controls.
 
