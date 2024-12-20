@@ -40,9 +40,9 @@ python game.py
 
 The game will launch in full-screen mode.
 
-Creating an Executable
+# Creating an Executable
 
-# To create an executable using auto-py-to-exe:
+To create an executable using auto-py-to-exe:
 
 Install auto-py-to-exe:
 
