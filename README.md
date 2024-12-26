@@ -37,7 +37,6 @@ unnayan.png (target image)
 Navigate to the project folder in your terminal and run:
 
 python game.py
-![image](https://github.com/user-attachments/assets/70901a05-8b3c-4e18-85aa-0bb47175d664)
 
 
 The game will launch in full-screen mode.
@@ -73,3 +72,4 @@ Libraries: Pygame
 Assets: Custom images and sound effects
 
 Enjoy the game!
+[![image](https://github.com/user-attachments/assets/614198e4-68f3-4203-a12d-e3c7dbf8babe)](https://s2.ezgif.com/tmp/ezgif-2-f49f6ac3ce.gif)
